@@ -2,7 +2,7 @@
   IMPORTANT: Edit the two settings below before publishing.
   WhatsApp number must include country code, digits only (Kenya example: 2547XXXXXXXX).
 */
-const BUSINESS_WHATSAPP = "254797652122"; // REPLACE with your real WhatsApp number
+const BUSINESS_WHATSAPP = "254798796185"; // REPLACE with your real WhatsApp number
 const BUSINESS_EMAIL = "josephnjorogekinyanjui4@gmail.com"; // REPLACE with your real business email
 
 document.getElementById("year").textContent = new Date().getFullYear();
